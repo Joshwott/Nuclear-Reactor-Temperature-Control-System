@@ -8,4 +8,5 @@ It simulates a nucelar reactor control terminal that handles setting the safety 
 
 Additionally the outputted result is checked against a POST condition to ensure the result of the process is correct. In the context of this project it is either the reactor being Scrambled or allowed to continue running as normal.
 
-# NOTE: This was project originally created at university, however it has since been modified to remove any content that may breach any form of restrictions placed upon it due to the use of resources such as custom files and wrappers. Concept and development of the project was still entirely my own work and doing.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+NOTE: This was project originally created at university, however it has since been modified to remove any content that may breach any form of restrictions placed upon it due to the use of resources such as custom files and wrappers. Concept and development of the project was still entirely my own work and doing.
