@@ -1,6 +1,6 @@
 # Nuclear-Reactor-Temperature-Control-System
 
-Small project using SPARK &amp; Ada.
+Small project using Ada &amp; SPARK for formal verification.
 
 This project was made to test knowledge of developing high integrity systems and how SPARK and Ada can be used to prevent undesired outcomes through the defining of PRE and POST conditions.
 
