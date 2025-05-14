@@ -4,9 +4,11 @@ Small project using SPARK &amp; Ada.
 
 This project was made to test knowledge of developing high integrity systems and how SPARK and Ada can be used to prevent undesired outcomes through the defining of PRE and POST conditions.
 
-It simulates a nucelar reactor control terminal that handles setting the safety threshold of a reactor and then inputting the current temperatures of each of the 4 fuel rods. This is then checked against the PRE conditions in the code found in averagefueltemp.ads to ensure the data inputted is within acceptable bounds.
+It simulates a nucelar reactor control terminal that handles setting the safety threshold of a reactor and then inputting the current temperatures of each of the 4 fuel rods.
 
-Additionally the outputted result is checked against a POST condition to ensure the result of the process is correct. In the context of this project it is either the reactor being Scrambled or allowed to continue running as normal.
+In the context of this project it is either the reactor being Scrambled or allowed to continue running as normal depending on the calculated average temperature of the fuel rods.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-NOTE: This was project originally created at university, however it has since been modified to remove any content that may breach any form of restrictions placed upon it due to the use of resources such as custom files and wrappers. Concept and development of the project was still entirely my own work and doing.
+NOTE: This was project originally created at university as a result the SPARK files have been omitted due to minor modifications made by the university faculty as well as being modified to remove any custom wrappers or files that were used in the original that would cause a breach of any restrictions placed on this project due to their usage. 
+
+Concept and development of the Ada project including the implemeted PRE & POST conditions were still entirely my own work and doing.
